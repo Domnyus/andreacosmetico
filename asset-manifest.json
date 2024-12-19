@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/andreacosmetico/static/css/main.d87c6f8d.css",
-    "main.js": "/andreacosmetico/static/js/main.3ed44fa4.js",
+    "main.css": "/andreacosmetico/static/css/main.749376dc.css",
+    "main.js": "/andreacosmetico/static/js/main.ee6be754.js",
     "index.html": "/andreacosmetico/index.html",
-    "main.d87c6f8d.css.map": "/andreacosmetico/static/css/main.d87c6f8d.css.map",
-    "main.3ed44fa4.js.map": "/andreacosmetico/static/js/main.3ed44fa4.js.map"
+    "main.749376dc.css.map": "/andreacosmetico/static/css/main.749376dc.css.map",
+    "main.ee6be754.js.map": "/andreacosmetico/static/js/main.ee6be754.js.map"
   },
   "entrypoints": [
-    "static/css/main.d87c6f8d.css",
-    "static/js/main.3ed44fa4.js"
+    "static/css/main.749376dc.css",
+    "static/js/main.ee6be754.js"
   ]
 }

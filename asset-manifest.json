@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/andreacosmetico/static/css/main.a45d1964.css",
+    "main.js": "/andreacosmetico/static/js/main.6b0796e3.js",
+    "index.html": "/andreacosmetico/index.html",
+    "main.a45d1964.css.map": "/andreacosmetico/static/css/main.a45d1964.css.map",
+    "main.6b0796e3.js.map": "/andreacosmetico/static/js/main.6b0796e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a45d1964.css",
+    "static/js/main.6b0796e3.js"
+  ]
+}
